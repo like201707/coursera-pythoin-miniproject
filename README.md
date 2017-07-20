@@ -1,2 +1,2 @@
-# coursera-pythoin-miniproject
+# coursera-python-miniproject
 interactive python game
